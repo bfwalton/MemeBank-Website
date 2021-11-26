@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-October 29, 2021
+November 25, 2021
 
 # Privacy Policy
-More details regarding our privacy policy is coming soon! We do not collect any personal information, however our ad partners may collect some to provide you with a better, more personalized ad experiance.
+We do not intentionally collect any personal information, however our ad partners may collect some to provide you with a better, more personalized ad experiance.  We do collect some anonymous app usage information to improve your experiance and help us plan features for future updates!
