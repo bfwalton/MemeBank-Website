@@ -40,7 +40,11 @@ features                                  :
     fontawesome_icon_name                 : magic
 
   - title                                 : Editing
-    description                           : Simple yet powerful editing experience
+    description                           : Add text, shapes, and draw with a and simple yet powerful editing experience
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Templates
+    description                           : Create memes easily with build in templates
     fontawesome_icon_name                 : magic
 
   - title                                 : Save
